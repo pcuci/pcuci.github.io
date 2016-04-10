@@ -7,12 +7,12 @@
 
 # Site settings
 title:
-  en: Paul on the web
-  fr: Paul sur le web
+  en: The web by Paul
+  fr: L'web selon Paul
 email: paul@enfluence.io
 description:
-  en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-  fr: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
+  en: Reflecting on the internet of us
+  fr: Réflexions sur l'internet de nous
 index:
   en:
   fr: accueil.html
